@@ -1,16 +1,16 @@
-### Hi there 👋
+Hello 👋🏼
 
-<!--
-**HelenaBadaoui/HelenaBadaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Helena, I'm a material engineer 🧪  and a <strong>Ruby on Rails developer</strong> 👩🏼‍💻 </br>
+📍 Based in Paris
 
-Here are some ideas to get you started:
+The tools I'm working with :
+<ul>
+  <li>Ruby, Ruby on Rails</li>
+  <li>Javascript (ES6)</li>
+  <li>HTML5 / CSS / Bootstrap</li>
+  <li>SQL / PostgreSQL</li>
+ </ul>
+ 
+🔥 I'm currently working on <a href ="http://wwww.countify.tech" target="_blank">Countify </a>, an accounting saas => <a href ="https://github.com/ldecourcel/COUNTIFY" target="_blank">Repo </a>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
