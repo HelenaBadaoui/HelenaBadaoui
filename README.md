@@ -11,6 +11,5 @@ The tools I'm working with :
   <li>SQL / PostgreSQL</li>
  </ul>
  
-🔥 I'm currently working on <a href ="http://wwww.countify.tech" target="_blank">Countify </a>, an accounting saas => <a href ="https://github.com/ldecourcel/COUNTIFY" target="_blank">Repo </a>
  
 
