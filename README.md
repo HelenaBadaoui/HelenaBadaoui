@@ -5,9 +5,9 @@ Product Manager. 3 ans de backend avant de passer au produit, donc je sais ce qu
 - Plateforme FinTech livrée de A à Z, 8 000 inscrits
 - SaaS B2B lancé 0→1 en tant que co-fondatrice
 
-**Ce repo**
+**Ce repo** \
 Mon terrain d'entraînement : cadrages, priorisations, expériences IA, prototypes.
 
-**Me contacter**
+**Me contacter**\
 Un sujet produit ou une opportunité ? Écrivez-moi.
 [LinkedIn](https://www.linkedin.com/in/helena-badaoui)
